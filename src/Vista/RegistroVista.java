@@ -145,11 +145,11 @@ public class RegistroVista extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void txt_NombreActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txt_NombreActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_txt_NombreActionPerformed
 
     private void txt_ConfirmarContraseñaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txt_ConfirmarContraseñaActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_txt_ConfirmarContraseñaActionPerformed
 
     /*
