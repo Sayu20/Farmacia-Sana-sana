@@ -105,7 +105,7 @@ public class LoginVista extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btn_IngresarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_IngresarActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_btn_IngresarActionPerformed
 
   
